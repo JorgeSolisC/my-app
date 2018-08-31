@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Styde te enseña a usar git
                 </div>
             </div>
         </div>
