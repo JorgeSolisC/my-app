@@ -15,6 +15,7 @@
                     @endif
 
                     Styde te enseña a usar git
+
                 </div>
             </div>
         </div>
